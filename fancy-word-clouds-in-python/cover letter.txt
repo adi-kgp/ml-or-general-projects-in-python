@@ -1,0 +1,31 @@
+Dear Sir/Madam,
+
+I am Aditya Sharma, I am super excited to work with your esteemed organization in the domain of analytics. Through this cover letter I would like to tell you about my previous education and work experiences and also my personal motivation to work for any organization in the analytics domain. Hopefully this information can qualify me for an interview round!
+I graduated from IIT Kharagpur (one of the top engineering institutes of India) in 2014 with Bachelor and Master degrees in Biotechnology. I learned biostatistics and application of neural networks in biological industrial domain that provided me insights into how data can be used to extract meaningful information and make inferences and predictions. 
+
+Then I worked for few months at Max Plank Institute of Molecular Plant Physiology at Potsdam, Germany on plant genetics. There I was introduced to shell scripting that helped me understand unix based computing. 
+
+After that I started working as Business Analyst at Moksha Creative Services Pvt Ltd (Creative Process Outsourcing (CPO) company) in Delhi. In this role I had to learn SQL and create tabular reports using SQL querying. Lots of performance metrics had to be thought of that would measure the progress of various internal teams and the company in general. 
+
+Then I worked as Project Manager at Murfi Tech Solutions in Karnal, Haryana where I led and managed a team of more than 300 surveyors to carry out "property tax survey" across the state of Haryana. This job involved providing constant guidance to surveyors who used their smartphones to collect survey data, from a single office. The work was new and it lacked the structure of a conventional company, rather it was bunch of people working together towards fullfilment of a government task in return for monetary compensation. 
+
+Upto this point, the work that I did was mostly involved in inculcating strong leadership skills from the grassroots level that would benefit me in future. Learning SQL was the only technical skillset that I learnt till here. 
+
+Then by the grace of God, I got a chance to work as Associate Data Scientist at Sigmoid Analytics, an analytics firm based in Bengaluru, India. I worked with two US clients, in Seattle and California, using tools like python, pyspark, SQL and PowerBI. I also got a generous chance from the company to earn certificates and learn concepts of data science and machine learning from Coursera. 
+
+My last job was Campaign Associate at a company called Indian Political Action Committee (IPAC). This job required me to play the role of political analyst to analyse the moods and inclination of voters towards different political parties. 
+
+I have proof of employment documents for the last two jobs (IPAC and Sigmoid). For all jobs before these two, I do not have proof of experience. 
+
+In the time when I was not working anywhere, I learnt a lot through my own efforts (self study) and learnt about neural networks, computer vision, AI, Natural Language Processing, different use cases of various neural network architectures like CNN, LSTM. I also learnt to use pretrained models like Huggingface, transformers, yolov3/5 models and how to easily use them for various ML tasks. All the knowledge I learnt and work I did is recorded in my github account :
+https://github.com/adi-kgp . 
+
+
+In the end, I would like to call my journey non-linear and full of downs and few ups. The result, I think, is a very strong willed individual with brilliant intelligence who likes to get work assigned to him done perfectly. I am very good learner and am always eager to learn new technologies, concepts. 
+
+My hobbies are singing, dancing, philosophical/metaphysical discussions, creative thinking and I always remain high on energy and life! I have seen before and hope to see in future too, that everyone around me gets motivated to unlock their potential and give their best to the company. 
+
+I hope to receive an email from you for a further discussion. I can assure you that I will not be a waste of time for you! 
+
+Thanks and Regards,
+Aditya
