@@ -158,6 +158,7 @@ cython_debug/
 /build-a-simple-search-engine-in-python/train.csv
 /build-a-simple-search-engine-in-python/embeddings.tar.gz
 
+**/.buildozer
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
