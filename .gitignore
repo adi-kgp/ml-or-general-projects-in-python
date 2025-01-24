@@ -171,4 +171,6 @@ cython_debug/
 
 /ta-lib-0.4.0-src.tar.gz
 /ta-lib
+train-and-deploy-a-pneumonia-classifier-in-pytorch/data
+train-and-deploy-a-pneumonia-classifier-in-pytorch/archive.zip
 
